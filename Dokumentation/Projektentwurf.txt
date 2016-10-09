@@ -1,0 +1,22 @@
+==============================================================
+=== Projektentwurf Leben im Mittelalter, v_1, [2016-10-09] ===
+==============================================================
+
+
+--Startbildschirm--
+Auf dem Startbildschirm kann man sich registrieren und anmelden.
+Die Registrierung öffnet ein neues Fenster.
+Nach der Anmeldung öffnet sich das eigentliche Spiel.
+
+
+--Das eigentliche Spiel--
+Sollte man das Spiel mit einem neuen Account betreten, wird ein neuer zufälliger Charackter generiert.
+Betritt man das Spiel mit einem Account, der bereits mit einem Charackter verbunden ist, übernimmt man dessen Rolle.
+Durch Tastendruck/Touch auf verschiedene Aktionsfelder bewegt man sich durch die Spielwelt und interagiert mit dieser.
+Dort lebt man den Tagesablauf des eigenen Charackters nach und interagiert mit anderen Spieler*Innen aus dem Internet.
+
+Durch einen Tastendruck/Touch auf ein bestimmtes Symbol erhält man in einem neuen Fenster Einsicht auf den eigenen Charackter und dessen Inventar.
+ 
+Durch einen Tastendruck/Touch auf ein bestimmtes Symbol schließt sich die Anwendung.
+
+Das Spiel soll darauf ausgerichtet sein, sowohl mit Maus als auch mit Touchscreen bedienbar zu sein.
