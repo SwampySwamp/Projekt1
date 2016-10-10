@@ -20,3 +20,24 @@ Durch einen Tastendruck/Touch auf ein bestimmtes Symbol erhält man in einem neue
 Durch einen Tastendruck/Touch auf ein bestimmtes Symbol schließt sich die Anwendung.
 
 Das Spiel soll darauf ausgerichtet sein, sowohl mit Maus als auch mit Touchscreen bedienbar zu sein.
+
+===================================
+=== Feedback Alpers, 2016-10-10 ===
+===================================
+
+Bislang haben Sie effektiv noch nicht beschrieben, was das eigentliche Spiel ausmacht.
+
+Bitte denken Sie daran, dass das Spiel später auf jedem beliebigen Endgerät nutzbar sein wird. Anforderungen wie "mit der Maus", "mit der Tastatur" sind deshalb nicht gültig.
+
+Formales:
+Bitte löschen Sie die Datei Dokumentation.txt
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: 1 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 1
+- Pro Strategie des Computers, die die individuellen Züge des Spielers adaptiert 0 bis 5 Pk.: 0
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.:
+- Designaspekte -5 bis 0 Pk.:
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.:
