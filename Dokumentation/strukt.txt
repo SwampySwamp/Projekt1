@@ -1,0 +1,20 @@
+=========================================
+=== Strukturelle Elemente, 2016.10.20 ===
+=========================================
+
+== 01 Schaltflächen ==
+01_01 Anmelden / Nutzer*In meldet sich an
+01_02 Registrieren / Die Registrierung öffnet sich in einem neuen Fenster
+01_03 Gehe Zu ... / Der Charakter geht zu ...
+
+== 10 input/submit ==
+10_01 submit
+
+== 11 input/text ==
+11_01 type=text / Eingabe des Nutzernamens
+11_02 type=text / Eingabe des Nutzernamens bei der Registrierung
+11_03 type=text / Eingabe des Passworts bei der Registrierung
+11_04 type=text / Eingabe des Charakternamens
+
+== 12 input/password ==
+12_01 type=password / Eingabe des Passworts
