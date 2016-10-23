@@ -17,6 +17,8 @@ Das bedeutet z.B. das Nachgehen der täglichen Arbeit (Feldarbeit, Schmieden, Fis
 Die dabei getroffenen Entscheidungen sollen sich auf die gesamte Spielwelt auswirken und auch für die anderen Spieler*Innen bemerkbar sein.
 Durch Tastendruck/Touch auf verschiedene Aktionsfelder bewegt man sich durch die Spielwelt und interagiert mit dieser.
 Die Spielwelt besteht aus einem Dorf, welches mit zunehmender Anzahl an Spieler*Innen wächst.
+Das Dorf enthält die typischen Gebäude die ein mittelalterliches Dorf damals besaß (z.B. Schmiede, Haupthaus, Tempel/Schrein, Gasthaus).
+Den Aufgaben in diesen Gebäuden gehen keine NPCs sondern die Spielercharaktere nach.
 Dort lebt man den Tagesablauf des eigenen Charackters nach und interagiert mit anderen Spieler*Innen aus dem Internet.
 
 Durch einen Tastendruck/Touch auf ein bestimmtes Symbol erhält man in einem neuen Fenster Einsicht auf den eigenen Charackter und dessen Inventar.
