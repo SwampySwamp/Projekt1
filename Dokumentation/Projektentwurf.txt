@@ -1,5 +1,5 @@
 ==============================================================
-=== Projektentwurf Leben im Mittelalter, v_5, [2016-11-05] ===
+=== Projektentwurf Leben im Mittelalter, v_6, [2016-11-06] ===
 ==============================================================
 
 
@@ -31,6 +31,31 @@ Tempel:
 - Innenleben
 - Beten
 
+Dorfplatz:
+- "All"-Chat
+- Aussehen des Platzes
+- Wahlen zum Bürgermeister
+- Erwerb von z.B: neuen Feldern
+
+Markt:
+- Assehen des Marktes
+- Handelsoptionen
+
+Taverne:
+- Innenleben
+- Nahrungsmenü um Lebensmittel zu kaufen
+
+Schmiede:
+- Innenleben
+- Hertsellungsoptionen
+- Handelsoptionen
+
+Gemischtwarenladen:
+- Handelsoptionen
+
+Tischlerei:
+- Hertsellungsoptionen
+- Handelsoptionen
 
 Eigenschaften der Spieler*Innen:
 - Geld
@@ -48,6 +73,9 @@ Genrelle Informationsleiste:
 
 
 // Abläufe und Funktionalitäten
+- jede AKtion braucht Zeit
+-- diese Zeit wird als ablaufender Countdown angezeigt
+
 
 Lebenspunkte:
 - Maximal Wert von 100
@@ -59,10 +87,39 @@ Hunger:
 - sinkt durch die Aufnahme von Nahrung
 - steigt durch Arbeit
 
+Handel:
+- Es können Dinge für einen von Spieler*Innen festgelegten Preis angeboten werden
+- Es können Dinge für einen von Spieler*Innen festgelegten Preis erworben werden
+- Durch Erwerb von Dingen sinkt der Geldwert
+- Durch erfolgreichen Verkauf von Dingen steigt der Geldwert
 
+Herstellung:
+- An Hand von Resourcen können Dinge hergestellt werden
+- nur mit bestimmten Beruf möglich
 
+Feldarbeit:
+- Die Länge der Feldarbeit kann festgelegt werden, an Hand der Länge erhalten die Spieler*Innen die darauf angebauten Rohstoffe
+-- das richtige Werkzeug senkt die Dauer der Arbeit, bei gleichem Ertrag
+- Es können weitere Felder erworben werden
+-- Ein Feld hat Anfangs keinen zu gewiesenen Rohstoff
+-- Es können dem Feld Rohstoffe zu gewiesen werden
+--- dazu werden Samen benötigt, die erst erworben werden müssen
+--- eine solche Zuweisung ist dauerhaft
+-- mit mehr Feldern erhöt sich der Ertrag
 
- 
+Berufe:
+- die Berufe bestimmen darüber wie die Spieler*Innen ihr Geld verdienen können 
+-- Nur der/die Schmied*In kann Metallwaren herstellen
+-- Nur der/die Tischler*In kann Holzwaren herstellen
+-- Der/Die Priester*In erhält einen kleinen Teil der Kollekte
+--- muss aber auch Regelmäßig Messen abhalten, welche Geld kosten
+---- wird dies vernachlässigt, kann eine neue Person für dieses Amt gewählt werden
+
+Beten:
+- beten beschleunigt die Arbeitsgeschwindigkeit
+- beten erhöt z.B. die Chancen auf einen höheren Ertrag bei der Feldarbeit
+- beten kostet Geld (Kollekte) 
+
 
 --Startbildschirm--
 Auf dem Startbildschirm kann man sich registrieren und anmelden.
